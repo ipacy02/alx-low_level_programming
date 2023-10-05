@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
 * main - Entry point
-*
-* Return: Always 0 (Success)
+* We use printf as output
+* Return: O is always returned
 */
 int main(void)
 {
