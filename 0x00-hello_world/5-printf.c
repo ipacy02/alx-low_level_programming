@@ -1,12 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Entry point of every code
- * Printf is used for output
- * Return: Always return 0
+ * main -A progam is going to print using printf
+ * Return: 0 is success
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece of art, \n");
 	return (0);
 }
 
