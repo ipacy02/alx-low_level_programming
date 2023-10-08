@@ -1,8 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Entry point
- *
- * Return: Always return 0
+ * main -A progam that prints a with puts function
+ * * Return: 0 (Success)
  */
 int main(void)
 {
