@@ -1,8 +1,7 @@
 #include<stdio.h>
 /**
-* main - Entry point
-* We use printf as output
-* Return: O is always returned
+* main - Entry point for our code
+* Return: Always 0 (Success)
 */
 int main(void)
 {
