@@ -1,10 +1,21 @@
 #include "main.h"
 /**
- * main -we are printingall the code in main
- * Return: 0 is the return
+ * main - to start the printing
+ * is written by mbah
+ * Return: 0
  */
+
 int main(void)
 {
-	printf("_putchar\n");
-	return (0);
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
 }
+
