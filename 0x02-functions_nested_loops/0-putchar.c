@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <main.h>
+#include "main.h"
 /**
  * main -we are printingall the code in main
  * Return: 0 is the return
