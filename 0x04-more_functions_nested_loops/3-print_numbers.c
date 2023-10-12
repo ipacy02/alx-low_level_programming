@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * print_numbers -the entry point
- * Return: 0 success
+ * Return: void
  */
+
 void print_numbers(void)
 {
 	int c;
