@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * _islower - checks for alphabetic character
- * @c: the character to be checked
- * Return: 1 if c is a letter, 0 otherwise
+ * _islower - is the starting point
+ * @c: the parameter to be checked
+ * Return: 1 if condition is true and 0 otherwise
  */
+
 int _islower(int c)
 {
-	if (c >= 97 && c <= 122)
+	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
 	}
