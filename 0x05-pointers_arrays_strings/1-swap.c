@@ -4,13 +4,13 @@
  * swap_int - we are swaping two integers
  * @a: to be checked
  * @b: to be checked
- * Return: 0
+ * Return: void
  */
 void swap_int(int *a, int *b)
 {
-	int m;
+	int c;
 
-	m = *a;
+	c = *a;
 	*a = *b;
-	*b = m;
+	*b = c;
 }
