@@ -2,8 +2,8 @@
 #include <stdlib.h>
 /**
  * argstostr - main entry
- * @ac: int input
- * @av: double pointer array
+ * @ac: int input ac
+ * @av: double pointer array av
  * Return: 0
  */
 char *argstostr(int ac, char **av)
